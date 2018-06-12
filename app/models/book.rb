@@ -1,3 +1,5 @@
 class Book < ApplicationRecord
-  chap4 sua lai lala lala
+  chapter11sua lai sau khi comment
+
+  day la chapter 12
 end
